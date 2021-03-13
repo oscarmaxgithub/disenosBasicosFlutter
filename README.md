@@ -1,16 +1,22 @@
-# ejemplo1
+# Diseño con Flutter 2.0
 
-A new Flutter application.
+Aplico 3 diseños de menor a mayor complejidad para comenzar.
 
-## Getting Started
+### Contenido
 
-This project is a starting point for a Flutter application.
+## Basico 1
+Ejemplode Google
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/20093196/111020761-2f7d3580-8396-11eb-92ad-92881f00e49c.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Basico 2
+ Uso de PageView
+
+![image](https://user-images.githubusercontent.com/20093196/111020748-1aa0a200-8396-11eb-954e-789491eb66fc.png)
+![image](https://user-images.githubusercontent.com/20093196/111020788-5a678980-8396-11eb-8e49-6e10f47363c7.png)
+
+## Basico 3
+ Uso de Table y TableRow Widget
+
+![image](https://user-images.githubusercontent.com/20093196/111020580-05774380-8395-11eb-87a9-91487b952c4f.png)
